@@ -84,3 +84,5 @@ licence, no attribution legally required, credited here as good practice):
 - Google Maps embed used on the Contact page: https://www.google.com/maps
   (no API key required for basic `output=embed` iframes).
 - Photography: Pexels (https://www.pexels.com) — see Photo Credits above.
+- Photography: unSplash (https://www.unsplash.com) - see photo Credits above.
+- Google Forms embed used on enquiry page: (https://www.googleforms.com)
